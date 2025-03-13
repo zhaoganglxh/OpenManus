@@ -1,4 +1,4 @@
-English | [中文](README_zh.md)
+English | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
 &ensp;
@@ -142,6 +142,8 @@ Join our networking group on Feishu and share your experience with other develop
 
 Thanks to [anthropic-computer-use](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
 and [browser-use](https://github.com/browser-use/browser-use) for providing basic support for this project!
+
+Additionally, we are grateful to [AAAJ](https://github.com/metauto-ai/agent-as-a-judge), [MetaGPT](https://github.com/geekan/MetaGPT) and [OpenHands](https://github.com/All-Hands-AI/OpenHands).
 
 OpenManus is built by contributors from MetaGPT. Huge thanks to this agent community!
 
