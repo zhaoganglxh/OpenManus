@@ -57,7 +57,9 @@ To run the project:
 
 To start the backend service:
 
-    cd .\OpenManus-front-end
+After configuring the config/config.toml file, execute the following command to start the server:
+
+    cd .. (Project root directory)
     python app.py
 
 ### 4. Package the Project

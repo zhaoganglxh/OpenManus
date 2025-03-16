@@ -57,7 +57,9 @@ nodejs官网安装: https://nodejs.org/en
 
 启动服务端:
 
-    cd .\OpenManus-front-end
+配置好config/config.toml文件后, 执行以下命令启动服务端:
+
+    cd .. (项目根目录)
     python app.py
 
 ### 4. 打包项目
