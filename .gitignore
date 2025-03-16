@@ -178,3 +178,7 @@ data/
 
 # Workspace
 workspace/
+
+# Private Config
+config/config.toml
+
